@@ -1,7 +1,8 @@
+this is just a basic test framework for later projects
 Assumption:
 1. There is no authentication required to access the user account
 2. There are 4 different APIs at work here.
-3. baseURL="modiCorppayment.com"
+3. baseURL="test1.com"
 4. API endpoints  taken under assumption are /addUser,/payBill,/getBill,/walletUpdate
 5. if there is no bill to pay, /getBill will return null in response
 6. customer will pay bill will billID
